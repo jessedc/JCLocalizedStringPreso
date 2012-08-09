@@ -295,3 +295,4 @@ Their latest [blog post](http://blog.jetbrains.com/objc/2012/07/appcode-1-6-eap1
 WWDC Session 244 'Internationalization tips and tricks' presented by Dave De Long
 
 http://www.albertmata.net/articles/introduction-to-internationalization-using-storyboards-on-ios-5.html
+https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/LoadingResources/Strings/Strings.html#//apple_ref/doc/uid/10000051i-CH6-SW1
